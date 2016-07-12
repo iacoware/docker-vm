@@ -1,0 +1,1 @@
+A VM template managed by vagrant to hosts docker containers
